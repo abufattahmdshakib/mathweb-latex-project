@@ -76,7 +76,7 @@ export default function Class11Math() {
                 </div>
 
                 {/* Probability */}
-                <div className="bg-gray-900 border border-gray-800 rounded-xl p-6 shadow flex flex-col space-y-3 break-words">
+                <div className="bg-gray-900 border border-gray-800 rounded-xl p-2 shadow flex flex-col space-y-3 break-words">
                     <h2 className="text-xl font-semibold text-white">Probability</h2>
                     <BlockMath math="P(E) = \frac{\text{Number of favorable outcomes}}{\text{Total number of outcomes}}" />
                     <BlockMath math="^nC_r = \frac{n!}{r!(n-r)!}" />
