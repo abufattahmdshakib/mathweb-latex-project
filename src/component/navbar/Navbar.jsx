@@ -8,7 +8,7 @@ function Navbar() {
     const [open, setOpen] = useState(false);
 
     return (
-        <nav className="bg-gray-900 text-gray-200 border-b border-gray-700 relative z-50">
+        <nav className="bg-gray-900 text-gray-200 border-b border-gray-700 fixed top-0 left-0 w-full z-50">
             <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between relative z-50">
 
                 {/* Logo with LaTeX */}

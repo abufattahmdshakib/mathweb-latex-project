@@ -5,7 +5,7 @@ import { InlineMath, BlockMath } from "react-katex";
 
 export default function Class11Math() {
     return (
-        <main className="bg-gray-950 min-h-screen text-gray-200 px-2 sm:px-6 lg:px-16 py-16">
+        <main className="bg-gray-950 max-w-7xl mx-auto text-gray-200 px-2 sm:px-6 lg:px-10 py-16">
 
             {/* Hero Section */}
             <section className="text-center mb-16">
